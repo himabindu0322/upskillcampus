@@ -5,12 +5,18 @@ This folder contains the weekly progress reports and final project report for th
 ## Contents
 
 Reports
+
 │
 ├── README.md
+
 ├── Week-1.pdf
+
 ├── Week-2.pdf
+
 ├── Week-3.pdf
+
 ├── Week-4.pdf
+
 ├── Karri_Himabindu_Smart_City_Traffic_Forecasting_Report.pdf
 
 ### Week 1 Report
